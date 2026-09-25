@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Изучаем PHP</h1>
+    <h1>Программа вычислений</h1>
     <h2>Вывод на экран</h2>
     <?php
         echo 'Вывод через команду echo';
