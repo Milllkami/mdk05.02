@@ -1,20 +1,20 @@
 <h1>Практическая 4</h1>
 <h2>Задание 1</h2>
 <?php
-$max = $num[0];
-foreach ($num as $key => $value) {
-    if($value > $max) {
-        $max = $value;
-    }
-}
-echo "Максимум - $max";
-?>
+$min = $numbers[0];
+$max = $numbers[0];
+$
+
+
+    
+
+
+
 <h2>Задание 2</h2>
 <?php
 $array = [12, 5, 422, 7, 2];
 $sum = 0;
 $product = 1;
-
 ?>
 <h2>Задание 3</h2>
 <?php
